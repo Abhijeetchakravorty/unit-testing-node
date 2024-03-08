@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getStringinfo for arg my-String should Stringutils tests Should throw error on invalid argument - arrow function: Invalid argument 1`] = `"Invalid argument"`;
+
+exports[`getStringinfo for arg my-String should Stringutils tests Should throw error on invalid argument - function: Invalid Argument 1`] = `"Invalid argument"`;
